@@ -1,0 +1,230 @@
+{"frames": {
+
+"yugenIdle0012.png":
+{
+	"frame": {"x":1594,"y":1475,"w":316,"h":486},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":111,"w":316,"h":486},
+	"sourceSize": {"w":316,"h":486},
+	"pivot": {"x":0.477848,"y":0.965021}
+},
+"yugenIdle0013.png":
+{
+	"frame": {"x":0,"y":1476,"w":317,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":110,"w":317,"h":487},
+	"sourceSize": {"w":317,"h":487},
+	"pivot": {"x":0.476341,"y":0.965092}
+},
+"yugenIdle0014.png":
+{
+	"frame": {"x":319,"y":1475,"w":317,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":109,"w":317,"h":488},
+	"sourceSize": {"w":317,"h":488},
+	"pivot": {"x":0.476341,"y":0.965164}
+},
+"yugenIdle0015.png":
+{
+	"frame": {"x":640,"y":985,"w":319,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":108,"w":319,"h":489},
+	"sourceSize": {"w":319,"h":489},
+	"pivot": {"x":0.476489,"y":0.965235}
+},
+"yugenIdle0016.png":
+{
+	"frame": {"x":640,"y":1474,"w":319,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":108,"w":319,"h":489},
+	"sourceSize": {"w":319,"h":489},
+	"pivot": {"x":0.476489,"y":0.965235}
+},
+"yugenIdle0017.png":
+{
+	"frame": {"x":321,"y":985,"w":319,"h":490},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":107,"w":319,"h":490},
+	"sourceSize": {"w":319,"h":490},
+	"pivot": {"x":0.476489,"y":0.965306}
+},
+"yugenIdle0018.png":
+{
+	"frame": {"x":1603,"y":493,"w":320,"h":491},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":106,"w":320,"h":491},
+	"sourceSize": {"w":320,"h":491},
+	"pivot": {"x":0.478125,"y":0.965377}
+},
+"yugenIdle0019.png":
+{
+	"frame": {"x":321,"y":493,"w":321,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":105,"w":321,"h":492},
+	"sourceSize": {"w":321,"h":492},
+	"pivot": {"x":0.476636,"y":0.965447}
+},
+"yugenIdle0020.png":
+{
+	"frame": {"x":642,"y":493,"w":321,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":105,"w":321,"h":492},
+	"sourceSize": {"w":321,"h":492},
+	"pivot": {"x":0.476636,"y":0.965447}
+},
+"yugenIdle0021.png":
+{
+	"frame": {"x":0,"y":0,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0022.png":
+{
+	"frame": {"x":321,"y":0,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0023.png":
+{
+	"frame": {"x":642,"y":0,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0024.png":
+{
+	"frame": {"x":963,"y":0,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0025.png":
+{
+	"frame": {"x":1284,"y":0,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0026.png":
+{
+	"frame": {"x":1605,"y":0,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0027.png":
+{
+	"frame": {"x":0,"y":493,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"yugenIdle0028.png":
+{
+	"frame": {"x":963,"y":493,"w":320,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":105,"w":320,"h":492},
+	"sourceSize": {"w":320,"h":492},
+	"pivot": {"x":0.478125,"y":0.965447}
+},
+"yugenIdle0029.png":
+{
+	"frame": {"x":1283,"y":493,"w":320,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":105,"w":320,"h":492},
+	"sourceSize": {"w":320,"h":492},
+	"pivot": {"x":0.478125,"y":0.965447}
+},
+"yugenIdle0030.png":
+{
+	"frame": {"x":1603,"y":984,"w":319,"h":491},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":106,"w":319,"h":491},
+	"sourceSize": {"w":319,"h":491},
+	"pivot": {"x":0.476489,"y":0.965377}
+},
+"yugenIdle0031.png":
+{
+	"frame": {"x":0,"y":986,"w":319,"h":490},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":107,"w":319,"h":490},
+	"sourceSize": {"w":319,"h":490},
+	"pivot": {"x":0.476489,"y":0.965306}
+},
+"yugenIdle0032.png":
+{
+	"frame": {"x":959,"y":985,"w":318,"h":490},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":107,"w":318,"h":490},
+	"sourceSize": {"w":318,"h":490},
+	"pivot": {"x":0.477987,"y":0.965306}
+},
+"yugenIdle0033.png":
+{
+	"frame": {"x":1277,"y":985,"w":318,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":108,"w":318,"h":489},
+	"sourceSize": {"w":318,"h":489},
+	"pivot": {"x":0.477997,"y":0.965242}
+},
+"yugenIdle0034.png":
+{
+	"frame": {"x":1277,"y":1474,"w":317,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":109,"w":317,"h":488},
+	"sourceSize": {"w":317,"h":488},
+	"pivot": {"x":0.476351,"y":0.96517}
+},
+"yugenIdle0035.png":
+{
+	"frame": {"x":959,"y":1475,"w":316,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":110,"w":316,"h":487},
+	"sourceSize": {"w":316,"h":487},
+	"pivot": {"x":0.477858,"y":0.965099}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "YugenIdleSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1963,"h":1963},
+	"scale": "1",
+	"related_multi_packs": [ "YugenIdleSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:400dcc97f7a28f31ff6966cb9759c72f:52e5c87f785de1e04c7d0ccb97266b1b:1b155df7b87ad56b8ac322cd0dfc00a1$"
+}
+}

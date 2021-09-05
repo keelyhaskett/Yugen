@@ -1,0 +1,194 @@
+{"frames": {
+
+"enemyWalkAnim0029.png":
+{
+	"frame": {"x":0,"y":0,"w":260,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":19,"w":260,"h":494},
+	"sourceSize": {"w":260,"h":494},
+	"pivot": {"x":0.473077,"y":0.945344}
+},
+"enemyWalkAnim0030.png":
+{
+	"frame": {"x":260,"y":0,"w":260,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":19,"w":260,"h":494},
+	"sourceSize": {"w":260,"h":494},
+	"pivot": {"x":0.473077,"y":0.945344}
+},
+"enemyWalkAnim0031.png":
+{
+	"frame": {"x":520,"y":0,"w":260,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":19,"w":260,"h":494},
+	"sourceSize": {"w":260,"h":494},
+	"pivot": {"x":0.473077,"y":0.945344}
+},
+"enemyWalkAnim0032.png":
+{
+	"frame": {"x":780,"y":0,"w":260,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":20,"w":260,"h":489},
+	"sourceSize": {"w":260,"h":489},
+	"pivot": {"x":0.473077,"y":0.952965}
+},
+"enemyWalkAnim0033.png":
+{
+	"frame": {"x":1040,"y":0,"w":265,"h":478},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":160,"y":24,"w":265,"h":478},
+	"sourceSize": {"w":265,"h":478},
+	"pivot": {"x":0.483019,"y":0.966527}
+},
+"enemyWalkAnim0034.png":
+{
+	"frame": {"x":1305,"y":0,"w":283,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":142,"y":27,"w":283,"h":481},
+	"sourceSize": {"w":283,"h":481},
+	"pivot": {"x":0.515901,"y":0.954262}
+},
+"enemyWalkAnim0035.png":
+{
+	"frame": {"x":1588,"y":0,"w":302,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":130,"y":28,"w":302,"h":482},
+	"sourceSize": {"w":302,"h":482},
+	"pivot": {"x":0.523179,"y":0.950207}
+},
+"enemyWalkAnim0036.png":
+{
+	"frame": {"x":0,"y":494,"w":314,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":125,"y":29,"w":314,"h":482},
+	"sourceSize": {"w":314,"h":482},
+	"pivot": {"x":0.519108,"y":0.948133}
+},
+"enemyWalkAnim0037.png":
+{
+	"frame": {"x":314,"y":494,"w":303,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":129,"y":28,"w":303,"h":482},
+	"sourceSize": {"w":303,"h":482},
+	"pivot": {"x":0.524752,"y":0.950207}
+},
+"enemyWalkAnim0038.png":
+{
+	"frame": {"x":617,"y":494,"w":284,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":141,"y":27,"w":284,"h":481},
+	"sourceSize": {"w":284,"h":481},
+	"pivot": {"x":0.517606,"y":0.954262}
+},
+"enemyWalkAnim0039.png":
+{
+	"frame": {"x":901,"y":494,"w":266,"h":478},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":159,"y":24,"w":266,"h":478},
+	"sourceSize": {"w":266,"h":478},
+	"pivot": {"x":0.484962,"y":0.966527}
+},
+"enemyWalkAnim0040.png":
+{
+	"frame": {"x":1167,"y":494,"w":260,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":20,"w":260,"h":489},
+	"sourceSize": {"w":260,"h":489},
+	"pivot": {"x":0.473077,"y":0.952965}
+},
+"enemyWalkAnim0041.png":
+{
+	"frame": {"x":1427,"y":494,"w":260,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":19,"w":260,"h":494},
+	"sourceSize": {"w":260,"h":494},
+	"pivot": {"x":0.473077,"y":0.945344}
+},
+"enemyWalkAnim0042.png":
+{
+	"frame": {"x":0,"y":988,"w":260,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":19,"w":260,"h":494},
+	"sourceSize": {"w":260,"h":494},
+	"pivot": {"x":0.473077,"y":0.945344}
+},
+"enemyWalkAnim0043.png":
+{
+	"frame": {"x":260,"y":988,"w":260,"h":494},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":19,"w":260,"h":494},
+	"sourceSize": {"w":260,"h":494},
+	"pivot": {"x":0.473077,"y":0.945344}
+},
+"enemyWalkAnim0044.png":
+{
+	"frame": {"x":520,"y":988,"w":260,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":165,"y":20,"w":260,"h":489},
+	"sourceSize": {"w":260,"h":489},
+	"pivot": {"x":0.473077,"y":0.952965}
+},
+"enemyWalkAnim0045.png":
+{
+	"frame": {"x":780,"y":988,"w":265,"h":478},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":160,"y":24,"w":265,"h":478},
+	"sourceSize": {"w":265,"h":478},
+	"pivot": {"x":0.483019,"y":0.966527}
+},
+"enemyWalkAnim0046.png":
+{
+	"frame": {"x":1045,"y":988,"w":283,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":142,"y":27,"w":283,"h":481},
+	"sourceSize": {"w":283,"h":481},
+	"pivot": {"x":0.515901,"y":0.954262}
+},
+"enemyWalkAnim0047.png":
+{
+	"frame": {"x":1328,"y":988,"w":302,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":130,"y":28,"w":302,"h":482},
+	"sourceSize": {"w":302,"h":482},
+	"pivot": {"x":0.523179,"y":0.950207}
+},
+"enemyWalkAnim0048.png":
+{
+	"frame": {"x":1630,"y":988,"w":314,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":125,"y":29,"w":314,"h":482},
+	"sourceSize": {"w":314,"h":482},
+	"pivot": {"x":0.519108,"y":0.948133}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyWalkSheet-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1944,"h":1482},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyWalkSheet-0.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:3221dfdc346550df60dc48bb4a2a2c62:4b6d7b250d89231c823fbbf45c4aac4b:8788463c3d2ba9ce1551c216087df95b$"
+}
+}

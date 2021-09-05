@@ -1,0 +1,221 @@
+{"frames": {
+
+"enemyJumpFront0001.png":
+{
+	"frame": {"x":0,"y":0,"w":305,"h":479},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":202,"w":305,"h":479},
+	"sourceSize": {"w":305,"h":479},
+	"pivot": {"x":0.495082,"y":0.949896}
+},
+"enemyJumpFront0002.png":
+{
+	"frame": {"x":305,"y":0,"w":334,"h":425},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":425,"y":256,"w":334,"h":425},
+	"sourceSize": {"w":334,"h":425},
+	"pivot": {"x":0.491018,"y":0.943529}
+},
+"enemyJumpFront0003.png":
+{
+	"frame": {"x":639,"y":0,"w":354,"h":372},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":416,"y":309,"w":354,"h":372},
+	"sourceSize": {"w":354,"h":372},
+	"pivot": {"x":0.488701,"y":0.935484}
+},
+"enemyJumpFront0004.png":
+{
+	"frame": {"x":993,"y":0,"w":363,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":412,"y":363,"w":363,"h":318},
+	"sourceSize": {"w":363,"h":318},
+	"pivot": {"x":0.487603,"y":0.924528}
+},
+"enemyJumpFront0005.png":
+{
+	"frame": {"x":1356,"y":0,"w":361,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":414,"y":417,"w":361,"h":264},
+	"sourceSize": {"w":361,"h":264},
+	"pivot": {"x":0.484765,"y":0.909091}
+},
+"enemyJumpFront0006.png":
+{
+	"frame": {"x":0,"y":479,"w":359,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":411,"y":470,"w":359,"h":211},
+	"sourceSize": {"w":359,"h":211},
+	"pivot": {"x":0.495822,"y":0.886256}
+},
+"enemyJumpFront0007.png":
+{
+	"frame": {"x":359,"y":479,"w":396,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":394,"y":417,"w":396,"h":276},
+	"sourceSize": {"w":396,"h":276},
+	"pivot": {"x":0.492424,"y":0.869565}
+},
+"enemyJumpFront0008.png":
+{
+	"frame": {"x":755,"y":479,"w":408,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":387,"y":364,"w":408,"h":340},
+	"sourceSize": {"w":408,"h":340},
+	"pivot": {"x":0.495098,"y":0.861765}
+},
+"enemyJumpFront0009.png":
+{
+	"frame": {"x":1163,"y":479,"w":398,"h":405},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":391,"y":310,"w":398,"h":405},
+	"sourceSize": {"w":398,"h":405},
+	"pivot": {"x":0.497487,"y":0.85679}
+},
+"enemyJumpFront0010.png":
+{
+	"frame": {"x":1561,"y":479,"w":366,"h":470},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":407,"y":256,"w":366,"h":470},
+	"sourceSize": {"w":366,"h":470},
+	"pivot": {"x":0.497268,"y":0.853191}
+},
+"enemyJumpFront0011.png":
+{
+	"frame": {"x":0,"y":949,"w":317,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":433,"y":202,"w":317,"h":535},
+	"sourceSize": {"w":317,"h":535},
+	"pivot": {"x":0.492114,"y":0.850467}
+},
+"enemyJumpFront0012.png":
+{
+	"frame": {"x":317,"y":949,"w":256,"h":601},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":467,"y":147,"w":256,"h":601},
+	"sourceSize": {"w":256,"h":601},
+	"pivot": {"x":0.476562,"y":0.848586}
+},
+"enemyJumpFront0013.png":
+{
+	"frame": {"x":573,"y":949,"w":264,"h":573},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":462,"y":158,"w":264,"h":573},
+	"sourceSize": {"w":264,"h":573},
+	"pivot": {"x":0.481061,"y":0.870855}
+},
+"enemyJumpFront0014.png":
+{
+	"frame": {"x":837,"y":949,"w":269,"h":545},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":458,"y":169,"w":269,"h":545},
+	"sourceSize": {"w":269,"h":545},
+	"pivot": {"x":0.486989,"y":0.895413}
+},
+"enemyJumpFront0015.png":
+{
+	"frame": {"x":1106,"y":949,"w":275,"h":515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":454,"y":181,"w":275,"h":515},
+	"sourceSize": {"w":275,"h":515},
+	"pivot": {"x":0.490909,"y":0.924272}
+},
+"enemyJumpFront0016.png":
+{
+	"frame": {"x":1381,"y":949,"w":278,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":451,"y":192,"w":278,"h":487},
+	"sourceSize": {"w":278,"h":487},
+	"pivot": {"x":0.496403,"y":0.954825}
+},
+"enemyJumpFront0017.png":
+{
+	"frame": {"x":1659,"y":949,"w":283,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":447,"y":204,"w":283,"h":458},
+	"sourceSize": {"w":283,"h":458},
+	"pivot": {"x":0.501767,"y":0.989083}
+},
+"enemyJumpFront0018.png":
+{
+	"frame": {"x":0,"y":1550,"w":285,"h":429},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":445,"y":216,"w":285,"h":429},
+	"sourceSize": {"w":285,"h":429},
+	"pivot": {"x":0.505263,"y":1.02797}
+},
+"enemyJumpFront0019.png":
+{
+	"frame": {"x":285,"y":1550,"w":290,"h":440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":443,"y":211,"w":290,"h":440},
+	"sourceSize": {"w":290,"h":440},
+	"pivot": {"x":0.503448,"y":1.01364}
+},
+"enemyJumpFront0020.png":
+{
+	"frame": {"x":575,"y":1550,"w":294,"h":451},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":442,"y":206,"w":294,"h":451},
+	"sourceSize": {"w":294,"h":451},
+	"pivot": {"x":0.5,"y":1}
+},
+"enemyJumpFront0021.png":
+{
+	"frame": {"x":869,"y":1550,"w":298,"h":462},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":440,"y":201,"w":298,"h":462},
+	"sourceSize": {"w":298,"h":462},
+	"pivot": {"x":0.5,"y":0.987013}
+},
+"enemyJumpFront0022.png":
+{
+	"frame": {"x":1167,"y":1550,"w":301,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":197,"w":301,"h":472},
+	"sourceSize": {"w":301,"h":472},
+	"pivot": {"x":0.498339,"y":0.974576}
+},
+"enemyJumpFront0023.png":
+{
+	"frame": {"x":1468,"y":1550,"w":303,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":192,"w":303,"h":483},
+	"sourceSize": {"w":303,"h":483},
+	"pivot": {"x":0.49835,"y":0.962733}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyJumpFrontSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1942,"h":2033},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyJumpFrontSheet-1.paper2dsprites", "EnemyJumpFrontSheet-2.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:cafb7d486c7d455fbe77ed2d38df7f7b:a4d7fbede9f3d27a187b3d7dc32518ad:34e63ceaad22c268cb62dda84fa39fee$"
+}
+}

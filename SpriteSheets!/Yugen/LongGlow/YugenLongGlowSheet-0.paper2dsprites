@@ -1,0 +1,230 @@
+{"frames": {
+
+"yugenWalk00070001.png":
+{
+	"frame": {"x":0,"y":0,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.505017,"y":0.940789}
+},
+"yugenWalk00070002.png":
+{
+	"frame": {"x":299,"y":0,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.505017,"y":0.940789}
+},
+"yugenWalk00070003.png":
+{
+	"frame": {"x":598,"y":0,"w":299,"h":454},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":26,"w":299,"h":454},
+	"sourceSize": {"w":299,"h":454},
+	"pivot": {"x":0.501672,"y":0.949339}
+},
+"yugenWalk00070004.png":
+{
+	"frame": {"x":897,"y":0,"w":299,"h":459},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":21,"w":299,"h":459},
+	"sourceSize": {"w":299,"h":459},
+	"pivot": {"x":0.501672,"y":0.949891}
+},
+"yugenWalk00070005.png":
+{
+	"frame": {"x":1196,"y":0,"w":299,"h":467},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":19,"w":299,"h":467},
+	"sourceSize": {"w":299,"h":467},
+	"pivot": {"x":0.501672,"y":0.937902}
+},
+"yugenWalk00070006.png":
+{
+	"frame": {"x":1495,"y":0,"w":299,"h":469},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":18,"w":299,"h":469},
+	"sourceSize": {"w":299,"h":469},
+	"pivot": {"x":0.501672,"y":0.936034}
+},
+"yugenWalk00070007.png":
+{
+	"frame": {"x":0,"y":469,"w":299,"h":467},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":19,"w":299,"h":467},
+	"sourceSize": {"w":299,"h":467},
+	"pivot": {"x":0.501672,"y":0.937902}
+},
+"yugenWalk00070008.png":
+{
+	"frame": {"x":299,"y":469,"w":299,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":20,"w":299,"h":463},
+	"sourceSize": {"w":299,"h":463},
+	"pivot": {"x":0.501672,"y":0.943845}
+},
+"yugenWalk00070009.png":
+{
+	"frame": {"x":598,"y":469,"w":299,"h":451},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":24,"w":299,"h":451},
+	"sourceSize": {"w":299,"h":451},
+	"pivot": {"x":0.501672,"y":0.960089}
+},
+"yugenWalk00070010.png":
+{
+	"frame": {"x":897,"y":469,"w":299,"h":454},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":27,"w":299,"h":454},
+	"sourceSize": {"w":299,"h":454},
+	"pivot": {"x":0.501672,"y":0.947137}
+},
+"yugenWalk00070011.png":
+{
+	"frame": {"x":1196,"y":469,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.501672,"y":0.940789}
+},
+"yugenWalk00070012.png":
+{
+	"frame": {"x":1495,"y":469,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.501672,"y":0.940789}
+},
+"yugenWalk00070013.png":
+{
+	"frame": {"x":0,"y":936,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.501672,"y":0.940789}
+},
+"yugenWalk00070014.png":
+{
+	"frame": {"x":299,"y":936,"w":299,"h":454},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":27,"w":299,"h":454},
+	"sourceSize": {"w":299,"h":454},
+	"pivot": {"x":0.501672,"y":0.947137}
+},
+"yugenWalk00070015.png":
+{
+	"frame": {"x":598,"y":936,"w":299,"h":452},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":23,"w":299,"h":452},
+	"sourceSize": {"w":299,"h":452},
+	"pivot": {"x":0.501672,"y":0.960177}
+},
+"yugenWalk00070016.png":
+{
+	"frame": {"x":897,"y":936,"w":299,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":20,"w":299,"h":463},
+	"sourceSize": {"w":299,"h":463},
+	"pivot": {"x":0.501672,"y":0.943845}
+},
+"yugenWalk00070017.png":
+{
+	"frame": {"x":1196,"y":936,"w":299,"h":467},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":19,"w":299,"h":467},
+	"sourceSize": {"w":299,"h":467},
+	"pivot": {"x":0.501672,"y":0.937902}
+},
+"yugenWalk00070018.png":
+{
+	"frame": {"x":1495,"y":936,"w":299,"h":469},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":18,"w":299,"h":469},
+	"sourceSize": {"w":299,"h":469},
+	"pivot": {"x":0.501672,"y":0.936034}
+},
+"yugenWalk00070019.png":
+{
+	"frame": {"x":0,"y":1405,"w":299,"h":467},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":19,"w":299,"h":467},
+	"sourceSize": {"w":299,"h":467},
+	"pivot": {"x":0.501672,"y":0.937902}
+},
+"yugenWalk00070020.png":
+{
+	"frame": {"x":299,"y":1405,"w":299,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":20,"w":299,"h":463},
+	"sourceSize": {"w":299,"h":463},
+	"pivot": {"x":0.501672,"y":0.943845}
+},
+"yugenWalk00070021.png":
+{
+	"frame": {"x":598,"y":1405,"w":299,"h":452},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":23,"w":299,"h":452},
+	"sourceSize": {"w":299,"h":452},
+	"pivot": {"x":0.501672,"y":0.960177}
+},
+"yugenWalk00070022.png":
+{
+	"frame": {"x":897,"y":1405,"w":299,"h":454},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":27,"w":299,"h":454},
+	"sourceSize": {"w":299,"h":454},
+	"pivot": {"x":0.501672,"y":0.947137}
+},
+"yugenWalk00070023.png":
+{
+	"frame": {"x":1196,"y":1405,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.501672,"y":0.940789}
+},
+"yugenWalk00070024.png":
+{
+	"frame": {"x":1495,"y":1405,"w":299,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":28,"w":299,"h":456},
+	"sourceSize": {"w":299,"h":456},
+	"pivot": {"x":0.501672,"y":0.940789}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "YugenLongGlowSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1794,"h":1872},
+	"scale": "1",
+	"related_multi_packs": [ "YugenLongGlowSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ad31ea78c34835b7fc3606c96b312e82:afde0a7dbe32e0c087de5a26f3014a61:be250865c53e4b70bc9b100573a3ae87$"
+}
+}

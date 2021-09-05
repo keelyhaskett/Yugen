@@ -1,0 +1,203 @@
+{"frames": {
+
+"AllyWalkYellow0028.png":
+{
+	"frame": {"x":0,"y":0,"w":261,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":188,"y":150,"w":261,"h":483},
+	"sourceSize": {"w":261,"h":483},
+	"pivot": {"x":0.498084,"y":0.962733}
+},
+"AllyWalkYellow0029.png":
+{
+	"frame": {"x":261,"y":0,"w":261,"h":484},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":187,"y":148,"w":261,"h":484},
+	"sourceSize": {"w":261,"h":484},
+	"pivot": {"x":0.501916,"y":0.964876}
+},
+"AllyWalkYellow0030.png":
+{
+	"frame": {"x":522,"y":0,"w":261,"h":484},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":186,"y":146,"w":261,"h":484},
+	"sourceSize": {"w":261,"h":484},
+	"pivot": {"x":0.505747,"y":0.969008}
+},
+"AllyWalkYellow0031.png":
+{
+	"frame": {"x":783,"y":0,"w":261,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":185,"y":144,"w":261,"h":485},
+	"sourceSize": {"w":261,"h":485},
+	"pivot": {"x":0.509579,"y":0.971134}
+},
+"AllyWalkYellow0032.png":
+{
+	"frame": {"x":1044,"y":0,"w":260,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":185,"y":142,"w":260,"h":485},
+	"sourceSize": {"w":260,"h":485},
+	"pivot": {"x":0.511538,"y":0.975258}
+},
+"AllyWalkYellow0033.png":
+{
+	"frame": {"x":1304,"y":0,"w":261,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":184,"y":141,"w":261,"h":485},
+	"sourceSize": {"w":261,"h":485},
+	"pivot": {"x":0.51341,"y":0.97732}
+},
+"AllyWalkYellow0034.png":
+{
+	"frame": {"x":0,"y":485,"w":261,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":184,"y":141,"w":261,"h":483},
+	"sourceSize": {"w":261,"h":483},
+	"pivot": {"x":0.51341,"y":0.981366}
+},
+"AllyWalkYellow0035.png":
+{
+	"frame": {"x":261,"y":485,"w":261,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":184,"y":140,"w":261,"h":482},
+	"sourceSize": {"w":261,"h":482},
+	"pivot": {"x":0.51341,"y":0.985477}
+},
+"AllyWalkYellow0036.png":
+{
+	"frame": {"x":522,"y":485,"w":261,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":184,"y":140,"w":261,"h":483},
+	"sourceSize": {"w":261,"h":483},
+	"pivot": {"x":0.51341,"y":0.983437}
+},
+"AllyWalkYellow0037.png":
+{
+	"frame": {"x":783,"y":485,"w":261,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":182,"y":140,"w":261,"h":485},
+	"sourceSize": {"w":261,"h":485},
+	"pivot": {"x":0.521073,"y":0.979381}
+},
+"AllyWalkYellow0038.png":
+{
+	"frame": {"x":1044,"y":485,"w":261,"h":486},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":180,"y":140,"w":261,"h":486},
+	"sourceSize": {"w":261,"h":486},
+	"pivot": {"x":0.528736,"y":0.977366}
+},
+"AllyWalkYellow0039.png":
+{
+	"frame": {"x":0,"y":971,"w":261,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":179,"y":141,"w":261,"h":487},
+	"sourceSize": {"w":261,"h":487},
+	"pivot": {"x":0.532567,"y":0.973306}
+},
+"AllyWalkYellow0040.png":
+{
+	"frame": {"x":261,"y":971,"w":263,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":177,"y":142,"w":263,"h":487},
+	"sourceSize": {"w":263,"h":487},
+	"pivot": {"x":0.536122,"y":0.971253}
+},
+"AllyWalkYellow0041.png":
+{
+	"frame": {"x":524,"y":971,"w":270,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":174,"y":143,"w":270,"h":488},
+	"sourceSize": {"w":270,"h":488},
+	"pivot": {"x":0.533333,"y":0.967213}
+},
+"AllyWalkYellow0042.png":
+{
+	"frame": {"x":794,"y":971,"w":279,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":168,"y":145,"w":279,"h":487},
+	"sourceSize": {"w":279,"h":487},
+	"pivot": {"x":0.537634,"y":0.965092}
+},
+"AllyWalkYellow0043.png":
+{
+	"frame": {"x":1073,"y":971,"w":286,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":163,"y":148,"w":286,"h":485},
+	"sourceSize": {"w":286,"h":485},
+	"pivot": {"x":0.541958,"y":0.962887}
+},
+"AllyWalkYellow0044.png":
+{
+	"frame": {"x":0,"y":1459,"w":292,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":159,"y":149,"w":292,"h":485},
+	"sourceSize": {"w":292,"h":485},
+	"pivot": {"x":0.544521,"y":0.960825}
+},
+"AllyWalkYellow0045.png":
+{
+	"frame": {"x":292,"y":1459,"w":297,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":156,"y":150,"w":297,"h":485},
+	"sourceSize": {"w":297,"h":485},
+	"pivot": {"x":0.545455,"y":0.958763}
+},
+"AllyWalkYellow0046.png":
+{
+	"frame": {"x":589,"y":1459,"w":301,"h":484},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":153,"y":151,"w":301,"h":484},
+	"sourceSize": {"w":301,"h":484},
+	"pivot": {"x":0.548173,"y":0.958678}
+},
+"AllyWalkYellow0047.png":
+{
+	"frame": {"x":890,"y":1459,"w":303,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":152,"y":151,"w":303,"h":485},
+	"sourceSize": {"w":303,"h":485},
+	"pivot": {"x":0.547855,"y":0.956701}
+},
+"AllyWalkYellow0048.png":
+{
+	"frame": {"x":1193,"y":1459,"w":304,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":152,"y":151,"w":304,"h":485},
+	"sourceSize": {"w":304,"h":485},
+	"pivot": {"x":0.546053,"y":0.956701}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "AllyYellowWalkSheet-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1565,"h":1944},
+	"scale": "1",
+	"related_multi_packs": [ "AllyYellowWalkSheet-0.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:94600ff76ff9b31607789f7865f0dd22:7d2ada992801cc830a5e26867c49a5a9:ca56a44663bbfde3069466035a56f6f0$"
+}
+}

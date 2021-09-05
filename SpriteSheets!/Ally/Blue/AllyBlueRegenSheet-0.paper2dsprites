@@ -1,0 +1,158 @@
+{"frames": {
+
+"allyRegenBlue0001.png":
+{
+	"frame": {"x":0,"y":0,"w":319,"h":479},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":291,"y":334,"w":319,"h":479},
+	"sourceSize": {"w":319,"h":479},
+	"pivot": {"x":0.485893,"y":0.962422}
+},
+"allyRegenBlue0007.png":
+{
+	"frame": {"x":0,"y":993,"w":340,"h":464},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":275,"y":349,"w":340,"h":464},
+	"sourceSize": {"w":340,"h":464},
+	"pivot": {"x":0.502941,"y":0.961207}
+},
+"allyRegenBlue0008.png":
+{
+	"frame": {"x":479,"y":0,"w":337,"h":469},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":344,"w":337,"h":469},
+	"sourceSize": {"w":337,"h":469},
+	"pivot": {"x":0.504451,"y":0.96162}
+},
+"allyRegenBlue0009.png":
+{
+	"frame": {"x":948,"y":0,"w":337,"h":473},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":340,"w":337,"h":473},
+	"sourceSize": {"w":337,"h":473},
+	"pivot": {"x":0.504451,"y":0.961945}
+},
+"allyRegenBlue0010.png":
+{
+	"frame": {"x":1421,"y":0,"w":337,"h":476},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":337,"w":337,"h":476},
+	"sourceSize": {"w":337,"h":476},
+	"pivot": {"x":0.504451,"y":0.962185}
+},
+"allyRegenBlue0019.png":
+{
+	"frame": {"x":0,"y":319,"w":337,"h":475},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":338,"w":337,"h":475},
+	"sourceSize": {"w":337,"h":475},
+	"pivot": {"x":0.504451,"y":0.962105}
+},
+"allyRegenBlue0020.png":
+{
+	"frame": {"x":475,"y":337,"w":337,"h":476},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":337,"w":337,"h":476},
+	"sourceSize": {"w":337,"h":476},
+	"pivot": {"x":0.504451,"y":0.962185}
+},
+"allyRegenBlue0021.png":
+{
+	"frame": {"x":951,"y":337,"w":337,"h":478},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":335,"w":337,"h":478},
+	"sourceSize": {"w":337,"h":478},
+	"pivot": {"x":0.504451,"y":0.962343}
+},
+"allyRegenBlue0022.png":
+{
+	"frame": {"x":1429,"y":337,"w":337,"h":478},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":335,"w":337,"h":478},
+	"sourceSize": {"w":337,"h":478},
+	"pivot": {"x":0.504451,"y":0.962343}
+},
+"allyRegenBlue0031.png":
+{
+	"frame": {"x":475,"y":674,"w":337,"h":478},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":335,"w":337,"h":478},
+	"sourceSize": {"w":337,"h":478},
+	"pivot": {"x":0.504451,"y":0.962343}
+},
+"allyRegenBlue0032.png":
+{
+	"frame": {"x":953,"y":674,"w":337,"h":477},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":336,"w":337,"h":477},
+	"sourceSize": {"w":337,"h":477},
+	"pivot": {"x":0.504451,"y":0.962264}
+},
+"allyRegenBlue0033.png":
+{
+	"frame": {"x":0,"y":656,"w":337,"h":475},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":338,"w":337,"h":475},
+	"sourceSize": {"w":337,"h":475},
+	"pivot": {"x":0.504451,"y":0.962105}
+},
+"allyRegenBlue0034.png":
+{
+	"frame": {"x":1430,"y":674,"w":337,"h":475},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":338,"w":337,"h":475},
+	"sourceSize": {"w":337,"h":475},
+	"pivot": {"x":0.504451,"y":0.962105}
+},
+"allyRegenBlue0043.png":
+{
+	"frame": {"x":464,"y":1011,"w":337,"h":478},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":335,"w":337,"h":478},
+	"sourceSize": {"w":337,"h":478},
+	"pivot": {"x":0.504451,"y":0.962343}
+},
+"allyRegenBlue0044.png":
+{
+	"frame": {"x":942,"y":1011,"w":337,"h":479},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":334,"w":337,"h":479},
+	"sourceSize": {"w":337,"h":479},
+	"pivot": {"x":0.504451,"y":0.962422}
+},
+"allyRegenBlue0045.png":
+{
+	"frame": {"x":1421,"y":1011,"w":337,"h":479},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":276,"y":334,"w":337,"h":479},
+	"sourceSize": {"w":337,"h":479},
+	"pivot": {"x":0.504451,"y":0.962422}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "AllyBlueRegenSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1907,"h":1348},
+	"scale": "1",
+	"related_multi_packs": [ "AllyBlueRegenSheet-1.paper2dsprites", "AllyBlueRegenSheet-2.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:151d30cc0ef77392b42e797f9ff8c888:fb01c2778e86008db289b6e08c3020d3:8e3a0778ed86f61c10dad6004a9d1878$"
+}
+}

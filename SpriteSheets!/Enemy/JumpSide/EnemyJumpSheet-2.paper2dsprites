@@ -1,0 +1,59 @@
+{"frames": {
+
+"enemyJumpAnim0044.png":
+{
+	"frame": {"x":0,"y":0,"w":314,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":183,"y":77,"w":314,"h":466},
+	"sourceSize": {"w":314,"h":466},
+	"pivot": {"x":0.515924,"y":0.987124}
+},
+"enemyJumpAnim0045.png":
+{
+	"frame": {"x":314,"y":0,"w":314,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":183,"y":77,"w":314,"h":466},
+	"sourceSize": {"w":314,"h":466},
+	"pivot": {"x":0.515924,"y":0.987124}
+},
+"enemyJumpAnim0046.png":
+{
+	"frame": {"x":628,"y":0,"w":314,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":183,"y":77,"w":314,"h":466},
+	"sourceSize": {"w":314,"h":466},
+	"pivot": {"x":0.515924,"y":0.987124}
+},
+"enemyJumpAnim0047.png":
+{
+	"frame": {"x":942,"y":0,"w":314,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":183,"y":77,"w":314,"h":466},
+	"sourceSize": {"w":314,"h":466},
+	"pivot": {"x":0.515924,"y":0.987124}
+},
+"enemyJumpAnim0048.png":
+{
+	"frame": {"x":1256,"y":0,"w":313,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":184,"y":77,"w":313,"h":466},
+	"sourceSize": {"w":313,"h":466},
+	"pivot": {"x":0.514377,"y":0.987124}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyJumpSheet-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1569,"h":466},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyJumpSheet-0.paper2dsprites", "EnemyJumpSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:adfeb75d5ebf9d23adcac15c5bb4278e:2b19b274f698265dfb11d041afeb11c4:78b833a25c9d66368285ad52c9d2cc15$"
+}
+}

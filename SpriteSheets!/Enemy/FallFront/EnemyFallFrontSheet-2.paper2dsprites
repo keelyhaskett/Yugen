@@ -1,0 +1,41 @@
+{"frames": {
+
+"enemyFallFrontAnim0046.png":
+{
+	"frame": {"x":0,"y":0,"w":349,"h":496},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":74,"y":361,"w":349,"h":496},
+	"sourceSize": {"w":349,"h":496},
+	"pivot": {"x":0.461318,"y":0.983871}
+},
+"enemyFallFrontAnim0047.png":
+{
+	"frame": {"x":349,"y":0,"w":350,"h":496},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":73,"y":361,"w":350,"h":496},
+	"sourceSize": {"w":350,"h":496},
+	"pivot": {"x":0.462857,"y":0.983871}
+},
+"enemyFallFrontAnim0048.png":
+{
+	"frame": {"x":699,"y":0,"w":351,"h":495},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":73,"y":361,"w":351,"h":495},
+	"sourceSize": {"w":351,"h":495},
+	"pivot": {"x":0.461538,"y":0.985859}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyFallFrontSheet-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1050,"h":496},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyFallFrontSheet-0.paper2dsprites", "EnemyFallFrontSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f7302f3818f2fd7bbb35a60df7ca2830:98f3e897b9bc2c3f1a9d03a853c54b12:03c1a8d0df73f64684165e1497b3eb36$"
+}
+}

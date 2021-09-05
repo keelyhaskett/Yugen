@@ -1,0 +1,230 @@
+{"frames": {
+
+"enemyDamageAnim0001.png":
+{
+	"frame": {"x":0,"y":0,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0002.png":
+{
+	"frame": {"x":302,"y":0,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0003.png":
+{
+	"frame": {"x":604,"y":0,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0004.png":
+{
+	"frame": {"x":906,"y":0,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0005.png":
+{
+	"frame": {"x":1208,"y":0,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0006.png":
+{
+	"frame": {"x":1510,"y":0,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0007.png":
+{
+	"frame": {"x":0,"y":472,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0008.png":
+{
+	"frame": {"x":307,"y":472,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0009.png":
+{
+	"frame": {"x":614,"y":472,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0010.png":
+{
+	"frame": {"x":921,"y":472,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0011.png":
+{
+	"frame": {"x":1223,"y":472,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0012.png":
+{
+	"frame": {"x":1525,"y":472,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0013.png":
+{
+	"frame": {"x":0,"y":944,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0014.png":
+{
+	"frame": {"x":307,"y":944,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0015.png":
+{
+	"frame": {"x":614,"y":944,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0016.png":
+{
+	"frame": {"x":921,"y":944,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0017.png":
+{
+	"frame": {"x":1228,"y":944,"w":307,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":40,"y":49,"w":307,"h":458},
+	"sourceSize": {"w":307,"h":458},
+	"pivot": {"x":0.628664,"y":0.925764}
+},
+"enemyDamageAnim0018.png":
+{
+	"frame": {"x":1535,"y":944,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0019.png":
+{
+	"frame": {"x":0,"y":1416,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0020.png":
+{
+	"frame": {"x":302,"y":1416,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0021.png":
+{
+	"frame": {"x":604,"y":1416,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0022.png":
+{
+	"frame": {"x":906,"y":1416,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0023.png":
+{
+	"frame": {"x":1208,"y":1416,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+},
+"enemyDamageAnim0024.png":
+{
+	"frame": {"x":1510,"y":1416,"w":302,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":44,"y":43,"w":302,"h":472},
+	"sourceSize": {"w":302,"h":472},
+	"pivot": {"x":0.625828,"y":0.911017}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyDamageSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1837,"h":1888},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyDamageSheet-1.paper2dsprites", "EnemyDamageSheet-2.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:95ac10f02d0a58f9254f6239318e29b0:3b687855daf97748c71dd35087641bb4:b75f13c9e177aeaad23672a6df405d9e$"
+}
+}

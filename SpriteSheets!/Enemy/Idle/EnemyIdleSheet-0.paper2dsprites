@@ -1,0 +1,230 @@
+{"frames": {
+
+"enemyIdle0001.png":
+{
+	"frame": {"x":0,"y":0,"w":300,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":447,"y":117,"w":300,"h":480},
+	"sourceSize": {"w":300,"h":480},
+	"pivot": {"x":0.476667,"y":0.964583}
+},
+"enemyIdle0002.png":
+{
+	"frame": {"x":300,"y":0,"w":302,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":446,"y":117,"w":302,"h":480},
+	"sourceSize": {"w":302,"h":480},
+	"pivot": {"x":0.476821,"y":0.964583}
+},
+"enemyIdle0003.png":
+{
+	"frame": {"x":602,"y":0,"w":304,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":445,"y":117,"w":304,"h":480},
+	"sourceSize": {"w":304,"h":480},
+	"pivot": {"x":0.476974,"y":0.964583}
+},
+"enemyIdle0004.png":
+{
+	"frame": {"x":906,"y":0,"w":306,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":444,"y":117,"w":306,"h":480},
+	"sourceSize": {"w":306,"h":480},
+	"pivot": {"x":0.477124,"y":0.964583}
+},
+"enemyIdle0005.png":
+{
+	"frame": {"x":1212,"y":0,"w":307,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":443,"y":116,"w":307,"h":481},
+	"sourceSize": {"w":307,"h":481},
+	"pivot": {"x":0.478827,"y":0.964657}
+},
+"enemyIdle0006.png":
+{
+	"frame": {"x":1519,"y":0,"w":308,"h":481},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":443,"y":116,"w":308,"h":481},
+	"sourceSize": {"w":308,"h":481},
+	"pivot": {"x":0.477273,"y":0.964657}
+},
+"enemyIdle0007.png":
+{
+	"frame": {"x":0,"y":481,"w":310,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":442,"y":115,"w":310,"h":482},
+	"sourceSize": {"w":310,"h":482},
+	"pivot": {"x":0.477419,"y":0.96473}
+},
+"enemyIdle0008.png":
+{
+	"frame": {"x":310,"y":481,"w":312,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":441,"y":115,"w":312,"h":482},
+	"sourceSize": {"w":312,"h":482},
+	"pivot": {"x":0.477564,"y":0.96473}
+},
+"enemyIdle0009.png":
+{
+	"frame": {"x":622,"y":481,"w":312,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":441,"y":114,"w":312,"h":483},
+	"sourceSize": {"w":312,"h":483},
+	"pivot": {"x":0.477564,"y":0.964803}
+},
+"enemyIdle0010.png":
+{
+	"frame": {"x":934,"y":481,"w":314,"h":484},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":440,"y":113,"w":314,"h":484},
+	"sourceSize": {"w":314,"h":484},
+	"pivot": {"x":0.477707,"y":0.964876}
+},
+"enemyIdle0011.png":
+{
+	"frame": {"x":1248,"y":481,"w":315,"h":485},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":440,"y":112,"w":315,"h":485},
+	"sourceSize": {"w":315,"h":485},
+	"pivot": {"x":0.47619,"y":0.964948}
+},
+"enemyIdle0012.png":
+{
+	"frame": {"x":1563,"y":481,"w":316,"h":486},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":111,"w":316,"h":486},
+	"sourceSize": {"w":316,"h":486},
+	"pivot": {"x":0.477848,"y":0.965021}
+},
+"enemyIdle0013.png":
+{
+	"frame": {"x":0,"y":967,"w":317,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":110,"w":317,"h":487},
+	"sourceSize": {"w":317,"h":487},
+	"pivot": {"x":0.476341,"y":0.965092}
+},
+"enemyIdle0014.png":
+{
+	"frame": {"x":317,"y":967,"w":317,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":439,"y":109,"w":317,"h":488},
+	"sourceSize": {"w":317,"h":488},
+	"pivot": {"x":0.476341,"y":0.965164}
+},
+"enemyIdle0015.png":
+{
+	"frame": {"x":634,"y":967,"w":319,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":108,"w":319,"h":489},
+	"sourceSize": {"w":319,"h":489},
+	"pivot": {"x":0.476489,"y":0.965235}
+},
+"enemyIdle0016.png":
+{
+	"frame": {"x":953,"y":967,"w":319,"h":489},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":108,"w":319,"h":489},
+	"sourceSize": {"w":319,"h":489},
+	"pivot": {"x":0.476489,"y":0.965235}
+},
+"enemyIdle0017.png":
+{
+	"frame": {"x":1272,"y":967,"w":319,"h":490},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":438,"y":107,"w":319,"h":490},
+	"sourceSize": {"w":319,"h":490},
+	"pivot": {"x":0.476489,"y":0.965306}
+},
+"enemyIdle0018.png":
+{
+	"frame": {"x":1591,"y":967,"w":320,"h":491},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":106,"w":320,"h":491},
+	"sourceSize": {"w":320,"h":491},
+	"pivot": {"x":0.478125,"y":0.965377}
+},
+"enemyIdle0019.png":
+{
+	"frame": {"x":0,"y":1458,"w":321,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":105,"w":321,"h":492},
+	"sourceSize": {"w":321,"h":492},
+	"pivot": {"x":0.476636,"y":0.965447}
+},
+"enemyIdle0020.png":
+{
+	"frame": {"x":321,"y":1458,"w":321,"h":492},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":105,"w":321,"h":492},
+	"sourceSize": {"w":321,"h":492},
+	"pivot": {"x":0.476636,"y":0.965447}
+},
+"enemyIdle0021.png":
+{
+	"frame": {"x":642,"y":1458,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"enemyIdle0022.png":
+{
+	"frame": {"x":963,"y":1458,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"enemyIdle0023.png":
+{
+	"frame": {"x":1284,"y":1458,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+},
+"enemyIdle0024.png":
+{
+	"frame": {"x":1605,"y":1458,"w":321,"h":493},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":437,"y":104,"w":321,"h":493},
+	"sourceSize": {"w":321,"h":493},
+	"pivot": {"x":0.476636,"y":0.965517}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyIdleSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1926,"h":1951},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyIdleSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c91a14abf788ff337dde9a9ec2bcc98e:2064041fe0c3780b3b5c9f99885e558a:70d9033442597ab55a759205e4c47502$"
+}
+}

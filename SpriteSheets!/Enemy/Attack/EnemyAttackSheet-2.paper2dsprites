@@ -1,0 +1,41 @@
+{"frames": {
+
+"enemyAttack0046.png":
+{
+	"frame": {"x":0,"y":0,"w":251,"h":479},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":540,"y":304,"w":251,"h":479},
+	"sourceSize": {"w":251,"h":479},
+	"pivot": {"x":0.470119,"y":0.97286}
+},
+"enemyAttack0047.png":
+{
+	"frame": {"x":251,"y":0,"w":263,"h":479},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":530,"y":304,"w":263,"h":479},
+	"sourceSize": {"w":263,"h":479},
+	"pivot": {"x":0.486692,"y":0.97286}
+},
+"enemyAttack0048.png":
+{
+	"frame": {"x":514,"y":0,"w":317,"h":479},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":501,"y":304,"w":317,"h":479},
+	"sourceSize": {"w":317,"h":479},
+	"pivot": {"x":0.495268,"y":0.97286}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyAttackSheet-2.png",
+	"format": "RGBA8888",
+	"size": {"w":831,"h":479},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyAttackSheet-0.paper2dsprites", "EnemyAttackSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a186381e9fc6e00ac39b5220ae97a570:e475aaa457d81d794d07c7f98082afb1:f3693a29d1cd6da06c7cfba9797daa00$"
+}
+}

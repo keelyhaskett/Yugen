@@ -1,0 +1,185 @@
+{"frames": {
+
+"enemyJumpAnim0001.png":
+{
+	"frame": {"x":0,"y":0,"w":313,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":184,"y":77,"w":313,"h":482},
+	"sourceSize": {"w":313,"h":482},
+	"pivot": {"x":0.514377,"y":0.954357}
+},
+"enemyJumpAnim0002.png":
+{
+	"frame": {"x":313,"y":0,"w":316,"h":470},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":182,"y":89,"w":316,"h":470},
+	"sourceSize": {"w":316,"h":470},
+	"pivot": {"x":0.515823,"y":0.953191}
+},
+"enemyJumpAnim0003.png":
+{
+	"frame": {"x":629,"y":0,"w":322,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":179,"y":125,"w":322,"h":433},
+	"sourceSize": {"w":322,"h":433},
+	"pivot": {"x":0.515528,"y":0.951501}
+},
+"enemyJumpAnim0004.png":
+{
+	"frame": {"x":951,"y":0,"w":330,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":175,"y":181,"w":330,"h":375},
+	"sourceSize": {"w":330,"h":375},
+	"pivot": {"x":0.515152,"y":0.949333}
+},
+"enemyJumpAnim0005.png":
+{
+	"frame": {"x":1281,"y":0,"w":339,"h":303},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":170,"y":251,"w":339,"h":303},
+	"sourceSize": {"w":339,"h":303},
+	"pivot": {"x":0.516224,"y":0.943894}
+},
+"enemyJumpAnim0006.png":
+{
+	"frame": {"x":1620,"y":0,"w":348,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":166,"y":328,"w":348,"h":227},
+	"sourceSize": {"w":348,"h":227},
+	"pivot": {"x":0.514368,"y":0.920705}
+},
+"enemyJumpAnim0007.png":
+{
+	"frame": {"x":0,"y":482,"w":347,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":166,"y":317,"w":347,"h":237},
+	"sourceSize": {"w":347,"h":237},
+	"pivot": {"x":0.51585,"y":0.92827}
+},
+"enemyJumpAnim0008.png":
+{
+	"frame": {"x":347,"y":482,"w":342,"h":273},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":168,"y":287,"w":342,"h":273},
+	"sourceSize": {"w":342,"h":273},
+	"pivot": {"x":0.517544,"y":0.915751}
+},
+"enemyJumpAnim0009.png":
+{
+	"frame": {"x":689,"y":482,"w":332,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":173,"y":239,"w":332,"h":331},
+	"sourceSize": {"w":332,"h":331},
+	"pivot": {"x":0.518072,"y":0.900302}
+},
+"enemyJumpAnim0010.png":
+{
+	"frame": {"x":1021,"y":482,"w":317,"h":409},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":181,"y":175,"w":317,"h":409},
+	"sourceSize": {"w":317,"h":409},
+	"pivot": {"x":0.51735,"y":0.885086}
+},
+"enemyJumpAnim0011.png":
+{
+	"frame": {"x":1338,"y":482,"w":295,"h":499},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":194,"y":102,"w":295,"h":499},
+	"sourceSize": {"w":295,"h":499},
+	"pivot": {"x":0.511864,"y":0.871743}
+},
+"enemyJumpAnim0012.png":
+{
+	"frame": {"x":1633,"y":482,"w":271,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":213,"y":23,"w":271,"h":596},
+	"sourceSize": {"w":271,"h":596},
+	"pivot": {"x":0.487085,"y":0.862416}
+},
+"enemyJumpAnim0013.png":
+{
+	"frame": {"x":0,"y":1078,"w":271,"h":593},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":213,"y":25,"w":271,"h":593},
+	"sourceSize": {"w":271,"h":593},
+	"pivot": {"x":0.487085,"y":0.863406}
+},
+"enemyJumpAnim0014.png":
+{
+	"frame": {"x":271,"y":1078,"w":272,"h":586},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":212,"y":30,"w":272,"h":586},
+	"sourceSize": {"w":272,"h":586},
+	"pivot": {"x":0.488971,"y":0.865188}
+},
+"enemyJumpAnim0015.png":
+{
+	"frame": {"x":543,"y":1078,"w":274,"h":574},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":210,"y":39,"w":274,"h":574},
+	"sourceSize": {"w":274,"h":574},
+	"pivot": {"x":0.492701,"y":0.867596}
+},
+"enemyJumpAnim0016.png":
+{
+	"frame": {"x":817,"y":1078,"w":276,"h":558},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":208,"y":50,"w":276,"h":558},
+	"sourceSize": {"w":276,"h":558},
+	"pivot": {"x":0.496377,"y":0.87276}
+},
+"enemyJumpAnim0017.png":
+{
+	"frame": {"x":1093,"y":1078,"w":279,"h":539},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":205,"y":63,"w":279,"h":539},
+	"sourceSize": {"w":279,"h":539},
+	"pivot": {"x":0.501792,"y":0.879406}
+},
+"enemyJumpAnim0018.png":
+{
+	"frame": {"x":1372,"y":1078,"w":282,"h":519},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":202,"y":77,"w":282,"h":519},
+	"sourceSize": {"w":282,"h":519},
+	"pivot": {"x":0.507092,"y":0.88632}
+},
+"enemyJumpAnim0019.png":
+{
+	"frame": {"x":1654,"y":1078,"w":286,"h":511},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":199,"y":77,"w":286,"h":511},
+	"sourceSize": {"w":286,"h":511},
+	"pivot": {"x":0.510489,"y":0.900196}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyJumpSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1968,"h":1671},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyJumpSheet-1.paper2dsprites", "EnemyJumpSheet-2.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:adfeb75d5ebf9d23adcac15c5bb4278e:2b19b274f698265dfb11d041afeb11c4:78b833a25c9d66368285ad52c9d2cc15$"
+}
+}

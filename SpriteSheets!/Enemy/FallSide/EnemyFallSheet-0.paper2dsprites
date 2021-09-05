@@ -1,0 +1,194 @@
+{"frames": {
+
+"enemyFallAnim0001.png":
+{
+	"frame": {"x":0,"y":0,"w":342,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":425,"y":62,"w":342,"h":482},
+	"sourceSize": {"w":342,"h":482},
+	"pivot": {"x":0.491228,"y":0.952282}
+},
+"enemyFallAnim0002.png":
+{
+	"frame": {"x":342,"y":0,"w":343,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":425,"y":62,"w":343,"h":482},
+	"sourceSize": {"w":343,"h":482},
+	"pivot": {"x":0.489796,"y":0.952282}
+},
+"enemyFallAnim0003.png":
+{
+	"frame": {"x":685,"y":0,"w":345,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":424,"y":62,"w":345,"h":482},
+	"sourceSize": {"w":345,"h":482},
+	"pivot": {"x":0.489855,"y":0.952282}
+},
+"enemyFallAnim0004.png":
+{
+	"frame": {"x":1030,"y":0,"w":347,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":423,"y":62,"w":347,"h":482},
+	"sourceSize": {"w":347,"h":482},
+	"pivot": {"x":0.489914,"y":0.952282}
+},
+"enemyFallAnim0005.png":
+{
+	"frame": {"x":1377,"y":0,"w":347,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":423,"y":62,"w":347,"h":482},
+	"sourceSize": {"w":347,"h":482},
+	"pivot": {"x":0.489914,"y":0.952282}
+},
+"enemyFallAnim0006.png":
+{
+	"frame": {"x":0,"y":482,"w":349,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":422,"y":62,"w":349,"h":482},
+	"sourceSize": {"w":349,"h":482},
+	"pivot": {"x":0.489971,"y":0.952282}
+},
+"enemyFallAnim0007.png":
+{
+	"frame": {"x":349,"y":482,"w":350,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":422,"y":62,"w":350,"h":482},
+	"sourceSize": {"w":350,"h":482},
+	"pivot": {"x":0.488571,"y":0.952282}
+},
+"enemyFallAnim0008.png":
+{
+	"frame": {"x":699,"y":482,"w":351,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":421,"y":62,"w":351,"h":482},
+	"sourceSize": {"w":351,"h":482},
+	"pivot": {"x":0.490028,"y":0.952282}
+},
+"enemyFallAnim0009.png":
+{
+	"frame": {"x":1050,"y":482,"w":352,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":421,"y":62,"w":352,"h":482},
+	"sourceSize": {"w":352,"h":482},
+	"pivot": {"x":0.488636,"y":0.952282}
+},
+"enemyFallAnim0010.png":
+{
+	"frame": {"x":1402,"y":482,"w":353,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":421,"y":62,"w":353,"h":482},
+	"sourceSize": {"w":353,"h":482},
+	"pivot": {"x":0.487252,"y":0.952282}
+},
+"enemyFallAnim0011.png":
+{
+	"frame": {"x":0,"y":964,"w":354,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":62,"w":354,"h":482},
+	"sourceSize": {"w":354,"h":482},
+	"pivot": {"x":0.488701,"y":0.952282}
+},
+"enemyFallAnim0012.png":
+{
+	"frame": {"x":354,"y":964,"w":355,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":62,"w":355,"h":482},
+	"sourceSize": {"w":355,"h":482},
+	"pivot": {"x":0.487324,"y":0.952282}
+},
+"enemyFallAnim0013.png":
+{
+	"frame": {"x":709,"y":964,"w":355,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":62,"w":355,"h":482},
+	"sourceSize": {"w":355,"h":482},
+	"pivot": {"x":0.487324,"y":0.952282}
+},
+"enemyFallAnim0014.png":
+{
+	"frame": {"x":1064,"y":964,"w":355,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":62,"w":355,"h":482},
+	"sourceSize": {"w":355,"h":482},
+	"pivot": {"x":0.487324,"y":0.952282}
+},
+"enemyFallAnim0015.png":
+{
+	"frame": {"x":1419,"y":964,"w":356,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":62,"w":356,"h":482},
+	"sourceSize": {"w":356,"h":482},
+	"pivot": {"x":0.485955,"y":0.952282}
+},
+"enemyFallAnim0016.png":
+{
+	"frame": {"x":0,"y":1446,"w":356,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":62,"w":356,"h":482},
+	"sourceSize": {"w":356,"h":482},
+	"pivot": {"x":0.485955,"y":0.952282}
+},
+"enemyFallAnim0017.png":
+{
+	"frame": {"x":356,"y":1446,"w":356,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":61,"w":356,"h":483},
+	"sourceSize": {"w":356,"h":483},
+	"pivot": {"x":0.485955,"y":0.952381}
+},
+"enemyFallAnim0018.png":
+{
+	"frame": {"x":712,"y":1446,"w":356,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":61,"w":356,"h":483},
+	"sourceSize": {"w":356,"h":483},
+	"pivot": {"x":0.485955,"y":0.952381}
+},
+"enemyFallAnim0019.png":
+{
+	"frame": {"x":1068,"y":1446,"w":357,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":420,"y":61,"w":357,"h":483},
+	"sourceSize": {"w":357,"h":483},
+	"pivot": {"x":0.484594,"y":0.952381}
+},
+"enemyFallAnim0020.png":
+{
+	"frame": {"x":1425,"y":1446,"w":358,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":419,"y":61,"w":358,"h":483},
+	"sourceSize": {"w":358,"h":483},
+	"pivot": {"x":0.486034,"y":0.952381}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyFallSheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1783,"h":1929},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyFallSheet-1.paper2dsprites", "EnemyFallSheet-2.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba196eba9333ba29c2a70e892bea24d5:87ba7385c2772d2e1ca4d0e3437ffe00:b910793d425b8a13c09205765eb26a91$"
+}
+}

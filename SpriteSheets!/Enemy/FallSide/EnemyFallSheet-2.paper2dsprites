@@ -1,0 +1,86 @@
+{"frames": {
+
+"enemyFallAnim0041.png":
+{
+	"frame": {"x":0,"y":0,"w":351,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":421,"y":62,"w":351,"h":482},
+	"sourceSize": {"w":351,"h":482},
+	"pivot": {"x":0.490028,"y":0.952282}
+},
+"enemyFallAnim0042.png":
+{
+	"frame": {"x":351,"y":0,"w":350,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":422,"y":62,"w":350,"h":482},
+	"sourceSize": {"w":350,"h":482},
+	"pivot": {"x":0.488571,"y":0.952282}
+},
+"enemyFallAnim0043.png":
+{
+	"frame": {"x":0,"y":482,"w":349,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":422,"y":62,"w":349,"h":482},
+	"sourceSize": {"w":349,"h":482},
+	"pivot": {"x":0.489971,"y":0.952282}
+},
+"enemyFallAnim0044.png":
+{
+	"frame": {"x":349,"y":482,"w":347,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":423,"y":62,"w":347,"h":482},
+	"sourceSize": {"w":347,"h":482},
+	"pivot": {"x":0.489914,"y":0.952282}
+},
+"enemyFallAnim0045.png":
+{
+	"frame": {"x":0,"y":964,"w":346,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":423,"y":62,"w":346,"h":482},
+	"sourceSize": {"w":346,"h":482},
+	"pivot": {"x":0.491329,"y":0.952282}
+},
+"enemyFallAnim0046.png":
+{
+	"frame": {"x":346,"y":964,"w":344,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":424,"y":62,"w":344,"h":482},
+	"sourceSize": {"w":344,"h":482},
+	"pivot": {"x":0.491279,"y":0.952282}
+},
+"enemyFallAnim0047.png":
+{
+	"frame": {"x":0,"y":1446,"w":343,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":425,"y":62,"w":343,"h":482},
+	"sourceSize": {"w":343,"h":482},
+	"pivot": {"x":0.489796,"y":0.952282}
+},
+"enemyFallAnim0048.png":
+{
+	"frame": {"x":343,"y":1446,"w":342,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":425,"y":62,"w":342,"h":482},
+	"sourceSize": {"w":342,"h":482},
+	"pivot": {"x":0.491228,"y":0.952282}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "EnemyFallSheet-2.png",
+	"format": "RGBA8888",
+	"size": {"w":701,"h":1928},
+	"scale": "1",
+	"related_multi_packs": [ "EnemyFallSheet-0.paper2dsprites", "EnemyFallSheet-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba196eba9333ba29c2a70e892bea24d5:87ba7385c2772d2e1ca4d0e3437ffe00:b910793d425b8a13c09205765eb26a91$"
+}
+}
