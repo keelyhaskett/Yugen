@@ -1,0 +1,86 @@
+{"frames": {
+
+"yugenFallSide0041.png":
+{
+	"frame": {"x":1,"y":1,"w":351,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":62,"w":351,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0042.png":
+{
+	"frame": {"x":354,"y":1,"w":350,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":422,"y":62,"w":350,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0043.png":
+{
+	"frame": {"x":1,"y":485,"w":349,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":422,"y":62,"w":349,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0044.png":
+{
+	"frame": {"x":352,"y":485,"w":347,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":423,"y":62,"w":347,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0045.png":
+{
+	"frame": {"x":1,"y":969,"w":346,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":423,"y":62,"w":346,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0046.png":
+{
+	"frame": {"x":349,"y":969,"w":344,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":424,"y":62,"w":344,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0047.png":
+{
+	"frame": {"x":1,"y":1453,"w":343,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":62,"w":343,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+},
+"yugenFallSide0048.png":
+{
+	"frame": {"x":346,"y":1453,"w":342,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":62,"w":342,"h":482},
+	"sourceSize": {"w":1420,"h":875},
+	"pivot": {"x":0.421127,"y":0.589714}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "YugenFallSideSheetV2-2.png",
+	"format": "RGBA8888",
+	"size": {"w":705,"h":1936},
+	"scale": "1",
+	"related_multi_packs": [ "YugenFallSideSheetV2-0.paper2dsprites", "YugenFallSideSheetV2-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e73898149494a85f2e6cfeed7dbb38bd:bdf9c5c866cc32809298eb922c5aca0e:294e125215b666c309de29d406a75306$"
+}
+}
