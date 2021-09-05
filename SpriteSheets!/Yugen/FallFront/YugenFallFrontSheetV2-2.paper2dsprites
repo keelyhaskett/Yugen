@@ -1,0 +1,41 @@
+{"frames": {
+
+"yugenFallFront0046.png":
+{
+	"frame": {"x":0,"y":0,"w":349,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":361,"w":349,"h":496},
+	"sourceSize": {"w":952,"h":1395},
+	"pivot": {"x":0.253151,"y":0.601434}
+},
+"yugenFallFront0047.png":
+{
+	"frame": {"x":349,"y":0,"w":350,"h":495},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":361,"w":350,"h":495},
+	"sourceSize": {"w":952,"h":1395},
+	"pivot": {"x":0.253151,"y":0.601434}
+},
+"yugenFallFront0048.png":
+{
+	"frame": {"x":699,"y":0,"w":351,"h":495},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":361,"w":351,"h":495},
+	"sourceSize": {"w":952,"h":1395},
+	"pivot": {"x":0.253151,"y":0.601434}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "YugenFallFrontSheetV2-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1050,"h":496},
+	"scale": "1",
+	"related_multi_packs": [ "YugenFallFrontSheetV2-0.paper2dsprites", "YugenFallFrontSheetV2-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0a0c2b82035da8265e73de1bb831f982:2bedc3cd9b9006f00e00e438871ddb16:9f6fea597aca23720ea04a554e24aec6$"
+}
+}

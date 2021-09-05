@@ -1,0 +1,23 @@
+{"frames": {
+
+"yugenJumpFront0048.png":
+{
+	"frame": {"x":0,"y":0,"w":305,"h":479},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":438,"y":202,"w":305,"h":479},
+	"sourceSize": {"w":1588,"h":1409},
+	"pivot": {"x":0.369647,"y":0.475515}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "YugenFallSheetV2-2.png",
+	"format": "RGBA8888",
+	"size": {"w":305,"h":479},
+	"scale": "1",
+	"related_multi_packs": [ "YugenFallSheetV2-0.paper2dsprites", "YugenFallSheetV2-1.paper2dsprites" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:80b00e43268d023e4ece6a514fa23d02:1b18c8732454fcc16d62574bc1a748c0:0378522ef2e685728f71cdbe0ca23cb4$"
+}
+}
