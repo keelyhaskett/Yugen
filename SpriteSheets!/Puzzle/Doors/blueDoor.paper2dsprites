@@ -1,0 +1,238 @@
+{"frames": {
+
+"DoorBlue0001.png":
+{
+	"frame": {"x":1,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0002.png":
+{
+	"frame": {"x":97,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0003.png":
+{
+	"frame": {"x":193,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0004.png":
+{
+	"frame": {"x":289,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0005.png":
+{
+	"frame": {"x":385,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0006.png":
+{
+	"frame": {"x":1,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0007.png":
+{
+	"frame": {"x":97,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0008.png":
+{
+	"frame": {"x":193,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0009.png":
+{
+	"frame": {"x":289,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0010.png":
+{
+	"frame": {"x":385,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0011.png":
+{
+	"frame": {"x":1,"y":817,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":94,"h":407},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0012.png":
+{
+	"frame": {"x":97,"y":817,"w":94,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":128,"w":94,"h":408},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0013.png":
+{
+	"frame": {"x":193,"y":817,"w":94,"h":413},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":125,"w":94,"h":413},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0014.png":
+{
+	"frame": {"x":289,"y":817,"w":94,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":119,"w":94,"h":423},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0015.png":
+{
+	"frame": {"x":385,"y":817,"w":94,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":110,"w":94,"h":439},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0016.png":
+{
+	"frame": {"x":1,"y":1258,"w":94,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":96,"w":94,"h":462},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0017.png":
+{
+	"frame": {"x":97,"y":1258,"w":94,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":76,"w":94,"h":496},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0018.png":
+{
+	"frame": {"x":193,"y":1258,"w":94,"h":537},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":52,"w":94,"h":537},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0019.png":
+{
+	"frame": {"x":289,"y":1258,"w":94,"h":569},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":33,"w":94,"h":569},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0020.png":
+{
+	"frame": {"x":385,"y":1258,"w":94,"h":593},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":94,"h":593},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0021.png":
+{
+	"frame": {"x":1,"y":1853,"w":94,"h":610},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":94,"h":610},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0022.png":
+{
+	"frame": {"x":97,"y":1853,"w":94,"h":619},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":94,"h":619},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0023.png":
+{
+	"frame": {"x":193,"y":1853,"w":94,"h":624},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":94,"h":624},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0024.png":
+{
+	"frame": {"x":289,"y":1853,"w":94,"h":625},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":625},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+},
+"DoorBlue0025.png":
+{
+	"frame": {"x":385,"y":1853,"w":94,"h":625},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":625},
+	"sourceSize": {"w":649,"h":1034},
+	"pivot": {"x":0.0724191,"y":0.51354}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "blueDoor.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":2479},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6db743f1bf9a2164a07802a57e8f6380:7a9a2b0d28fb2f274128b5abe8c15bc0:357756e5a06f3b6f8b705c9f6cbfac64$"
+}
+}

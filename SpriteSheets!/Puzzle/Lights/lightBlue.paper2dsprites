@@ -1,0 +1,238 @@
+{"frames": {
+
+"LightBlue0001.png":
+{
+	"frame": {"x":1,"y":1,"w":152,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":97,"w":152,"h":284},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0002.png":
+{
+	"frame": {"x":155,"y":1,"w":223,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":53,"w":223,"h":328},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0003.png":
+{
+	"frame": {"x":380,"y":1,"w":231,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":49,"w":231,"h":332},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0004.png":
+{
+	"frame": {"x":613,"y":1,"w":239,"h":335},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":46,"w":239,"h":335},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0005.png":
+{
+	"frame": {"x":1,"y":338,"w":247,"h":339},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":42,"w":247,"h":339},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0006.png":
+{
+	"frame": {"x":250,"y":338,"w":255,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":38,"w":255,"h":343},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0007.png":
+{
+	"frame": {"x":507,"y":338,"w":263,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":34,"w":263,"h":347},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0008.png":
+{
+	"frame": {"x":1,"y":687,"w":271,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":30,"w":271,"h":351},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0009.png":
+{
+	"frame": {"x":274,"y":687,"w":279,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":26,"w":279,"h":355},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0010.png":
+{
+	"frame": {"x":555,"y":687,"w":287,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":22,"w":287,"h":359},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0011.png":
+{
+	"frame": {"x":1,"y":1048,"w":294,"h":363},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":18,"w":294,"h":363},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0012.png":
+{
+	"frame": {"x":297,"y":1048,"w":302,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":15,"w":302,"h":366},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0013.png":
+{
+	"frame": {"x":601,"y":1048,"w":310,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":310,"h":370},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0014.png":
+{
+	"frame": {"x":1,"y":1420,"w":318,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":318,"h":374},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0015.png":
+{
+	"frame": {"x":321,"y":1420,"w":325,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":325,"h":378},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0016.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0017.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0018.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0019.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0020.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0021.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0022.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0023.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0024.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+},
+"LightBlue0025.png":
+{
+	"frame": {"x":648,"y":1420,"w":331,"h":381},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":381},
+	"sourceSize": {"w":331,"h":381},
+	"pivot": {"x":0.489426,"y":1}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "lightBlue.png",
+	"format": "RGBA8888",
+	"size": {"w":980,"h":1802},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:730c6e16c9be7f3c92b6e1abfa76dc94:57cec27c1dd57b2c950f4a6c65ab01a9:881503492972bcbd1faed61e7aa1fed2$"
+}
+}

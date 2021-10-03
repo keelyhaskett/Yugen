@@ -1,0 +1,238 @@
+{"frames": {
+
+"DoorPurple0001.png":
+{
+	"frame": {"x":1,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0002.png":
+{
+	"frame": {"x":97,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0003.png":
+{
+	"frame": {"x":193,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0004.png":
+{
+	"frame": {"x":289,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0005.png":
+{
+	"frame": {"x":385,"y":1,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0006.png":
+{
+	"frame": {"x":1,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0007.png":
+{
+	"frame": {"x":97,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0008.png":
+{
+	"frame": {"x":193,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0009.png":
+{
+	"frame": {"x":289,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0010.png":
+{
+	"frame": {"x":385,"y":409,"w":94,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":107,"w":94,"h":406},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0011.png":
+{
+	"frame": {"x":1,"y":817,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":106,"w":94,"h":407},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0012.png":
+{
+	"frame": {"x":97,"y":817,"w":94,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":106,"w":94,"h":408},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0013.png":
+{
+	"frame": {"x":193,"y":817,"w":94,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":103,"w":94,"h":412},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0014.png":
+{
+	"frame": {"x":289,"y":817,"w":94,"h":421},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":98,"w":94,"h":421},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0015.png":
+{
+	"frame": {"x":385,"y":817,"w":94,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":91,"w":94,"h":434},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0016.png":
+{
+	"frame": {"x":1,"y":1253,"w":94,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":79,"w":94,"h":454},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0017.png":
+{
+	"frame": {"x":97,"y":1253,"w":94,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":63,"w":94,"h":482},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0018.png":
+{
+	"frame": {"x":193,"y":1253,"w":94,"h":517},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":94,"h":517},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0019.png":
+{
+	"frame": {"x":289,"y":1253,"w":94,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":27,"w":94,"h":545},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0020.png":
+{
+	"frame": {"x":385,"y":1253,"w":94,"h":566},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":94,"h":566},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0021.png":
+{
+	"frame": {"x":1,"y":1821,"w":94,"h":580},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":94,"h":580},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0022.png":
+{
+	"frame": {"x":97,"y":1821,"w":94,"h":587},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":94,"h":587},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0023.png":
+{
+	"frame": {"x":193,"y":1821,"w":94,"h":592},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":592},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0024.png":
+{
+	"frame": {"x":289,"y":1821,"w":94,"h":593},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":593},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+},
+"DoorPurple0025.png":
+{
+	"frame": {"x":385,"y":1821,"w":94,"h":593},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":593},
+	"sourceSize": {"w":649,"h":1002},
+	"pivot": {"x":0.0755008,"y":0.510978}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "purpleDoor.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":2415},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:635acd43a445393c2888855523a7a256:94f8320e6f3a110d629fb8ae02edd229:7eebefd537b624fe0487547ed8923c5e$"
+}
+}

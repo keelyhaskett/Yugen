@@ -1,0 +1,238 @@
+{"frames": {
+
+"DoorGreen0001.png":
+{
+	"frame": {"x":1,"y":1,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0517837,"y":0.540174}
+},
+"DoorGreen0002.png":
+{
+	"frame": {"x":97,"y":1,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0003.png":
+{
+	"frame": {"x":193,"y":1,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0004.png":
+{
+	"frame": {"x":289,"y":1,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0005.png":
+{
+	"frame": {"x":385,"y":1,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0006.png":
+{
+	"frame": {"x":1,"y":410,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0007.png":
+{
+	"frame": {"x":97,"y":410,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0008.png":
+{
+	"frame": {"x":193,"y":410,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0009.png":
+{
+	"frame": {"x":289,"y":410,"w":94,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":94,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0010.png":
+{
+	"frame": {"x":385,"y":410,"w":93,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":93,"h":406},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0011.png":
+{
+	"frame": {"x":1,"y":819,"w":93,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":157,"w":93,"h":406},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0012.png":
+{
+	"frame": {"x":96,"y":819,"w":93,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":156,"w":93,"h":407},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0013.png":
+{
+	"frame": {"x":191,"y":819,"w":93,"h":411},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":154,"w":93,"h":411},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0014.png":
+{
+	"frame": {"x":286,"y":819,"w":93,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":149,"w":93,"h":418},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0015.png":
+{
+	"frame": {"x":381,"y":819,"w":93,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":141,"w":93,"h":431},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0016.png":
+{
+	"frame": {"x":1,"y":1252,"w":93,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":93,"h":449},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0017.png":
+{
+	"frame": {"x":96,"y":1252,"w":93,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":113,"w":93,"h":474},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0018.png":
+{
+	"frame": {"x":191,"y":1252,"w":93,"h":506},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":92,"w":93,"h":506},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0019.png":
+{
+	"frame": {"x":286,"y":1252,"w":93,"h":533},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":75,"w":93,"h":533},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0020.png":
+{
+	"frame": {"x":381,"y":1252,"w":93,"h":550},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":93,"h":550},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0021.png":
+{
+	"frame": {"x":1,"y":1804,"w":93,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":56,"w":93,"h":562},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0022.png":
+{
+	"frame": {"x":96,"y":1804,"w":93,"h":570},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":51,"w":93,"h":570},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0023.png":
+{
+	"frame": {"x":191,"y":1804,"w":93,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":48,"w":93,"h":574},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0024.png":
+{
+	"frame": {"x":286,"y":1804,"w":93,"h":576},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":93,"h":576},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+},
+"DoorGreen0025.png":
+{
+	"frame": {"x":381,"y":1804,"w":93,"h":576},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":93,"h":576},
+	"sourceSize": {"w":869,"h":1033},
+	"pivot": {"x":0.0506329,"y":0.540174}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "greenDoor.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":2381},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9d6ce77fec759604a29ef21da7143713:e7041a13d0687509e19dd26b4a60d8af:71e8fda6d784fa0f9f6bfdd624127889$"
+}
+}
