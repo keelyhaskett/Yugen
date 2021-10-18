@@ -8,7 +8,7 @@ The game is structured in three sets of 3 levels - three green, three purple and
 
 Code video: https://drive.google.com/drive/folders/1UNJAcZ2x0EAT-3IKem4LWwvqwQ6cBumZ?usp=sharing
 
-Gameplay video:
+Gameplay video: https://drive.google.com/file/d/1NzY656X-EqqqjFtCBtFRez20dLoEUIOI/view?usp=sharing
 
 Windows game: https://drive.google.com/file/d/14AeTLUQY3kCAcOZOPCE_I-PgYEUuDzB8/view?usp=sharing
 
