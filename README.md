@@ -6,3 +6,6 @@ Yugen is a fairly simple 2d puzzle game & platformer. The core mechanic of the g
 
 The game is structured in three sets of 3 levels - three green, three purple and three blue. Every third level is a ‘boss level’.
 
+Code video: https://drive.google.com/drive/folders/1UNJAcZ2x0EAT-3IKem4LWwvqwQ6cBumZ?usp=sharing
+Windows game: https://drive.google.com/file/d/14AeTLUQY3kCAcOZOPCE_I-PgYEUuDzB8/view?usp=sharing
+Mac Game: https://drive.google.com/file/d/1DGruPtFujmlHdrjosNRwmzBvLEayYp_V/view?usp=sharing
